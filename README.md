@@ -1,5 +1,5 @@
 # Overview
-This is the script of producing word2vec on tags of [stackoverflow](https://stackoverflow.com/) that is based on Python.
+This is the Python script of producing word2vec on tags of [stackoverflow](https://stackoverflow.com/).
 The tags was gathered from posts of stackoverflow related to Python.
 ## Prerequisite
 Before run script you must install [gensim](https://radimrehurek.com/gensim/) library.
