@@ -18,5 +18,5 @@ Taking into account that word2vec.py has three parameters:
 - negative
 - topn
 
-Make sure you set parameters according what you want.
+Make sure you set parameters according to what you want.
 
